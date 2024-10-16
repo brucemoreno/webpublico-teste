@@ -12,3 +12,7 @@ Abra o projeto, com seu Docker instalado e digite:
 
 > **_NOTE:_**  Quarkus funciona no: <http://localhost:8080/>.
 
+## Para ativar as endpoints:
+
+Foi exportado o projeto do POSTMAN na raiz do projeto: WebPublico.postman_collection.json.
+Para testar os endpoints, abra o Postman, clique em "import" e abra o arquivo.
